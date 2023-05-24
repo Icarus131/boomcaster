@@ -14,3 +14,5 @@
 
 
 ### Preview
+
+![raycaster](https://github.com/Icarus131/boomcaster/blob/main/preview.gif?raw=true)
